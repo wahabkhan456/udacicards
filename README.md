@@ -12,4 +12,4 @@ npm i or npm install
 expo start or npm start
 
 ## Tested on
-Oneplus 3 A3003 Android Pie (8.0)
+Oneplus 9 Android (v14)
